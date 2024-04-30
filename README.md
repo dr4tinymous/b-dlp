@@ -1,2 +1,2 @@
 # yt-bash
-yt-dlp bash scripting
+interactive yt-dlp bash scripts
